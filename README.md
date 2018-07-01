@@ -29,14 +29,14 @@ Augmented reality comic about a time traveler.
 
 ---
 
-###Early work
+### Early work
 
 [Touch Sensitive](https://itunes.apple.com/us/app/touch-sensitive-by-chris-ware/id1144394426?mt=8) *(Chris Ware, 2011)*  
 One of the first interactive tablet comics, originally released for iPad in the McSweeney's app.
 
 ---
 
-###Collections
+### Collections
 
 [New York Stories](https://www.nytimes.com/interactive/2017/06/02/magazine/new-york-stories-introduction.html) *(2017)*
 
